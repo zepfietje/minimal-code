@@ -1,4 +1,4 @@
-<div align="center"><img src="screenshots/code-light.png" width="400"></div>
+<p align="center"><img src="screenshots/code-light.png" width="400"></p>
 
 # Minimal Code
 
