@@ -1,4 +1,4 @@
-<div align="center"><img src="screenshots/empty-light.png" width="400"></div>
+<div align="center"><img src="screenshots/code-light.png" width="400"></div>
 
 # Minimal Code
 
@@ -36,7 +36,7 @@ It's focused on minimizing distractions, reducing mouse usage and optimizing the
 
 ## Screenshots
 
-![empty light](screenshots/empty-light.png)
-![empty dark](screenshots/empty-dark.png)
 ![code light](screenshots/code-light.png)
 ![code dark](screenshots/code-dark.png)
+![empty light](screenshots/empty-light.png)
+![empty dark](screenshots/empty-dark.png)
