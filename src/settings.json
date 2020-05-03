@@ -3,8 +3,9 @@
      * Minimal Code
      */
     "customizeUI.stylesheet": {
-        ".editor-group-container .title": "pointer-events: none;",
+        ".decorationsOverviewRuler": "display: none;",
         ".editor-group-container .title *": "display: none;",
+        ".editor-group-container .title": "pointer-events: none;",
         ".editor-group-container.empty": "-webkit-app-region: drag;",
         ".monaco-editor .scroll-decoration": "box-shadow: none;",
     },
@@ -21,13 +22,11 @@
     "editor.fontLigatures": true,
     "editor.fontSize": 15,
     "editor.formatOnSave": true,
-    "editor.hideCursorInOverviewRuler": true,
     "editor.lineHeight": 36,
     "editor.lineNumbers": "off",
     "editor.matchBrackets": "near",
     "editor.minimap.enabled": false,
     "editor.occurrencesHighlight": false,
-    "editor.overviewRulerBorder": false,
     "editor.padding.bottom": 24,
     "editor.padding.top": 24,
     "editor.renderIndentGuides": false,
@@ -53,10 +52,6 @@
     "window.titleBarStyle": "native",
     "workbench.activityBar.visible": false,
     "workbench.colorCustomizations": {
-        "editorOverviewRuler.infoForeground": "#0000",
-        "editorOverviewRuler.warningForeground": "#0000",
-        "editorOverviewRuler.errorForeground": "#0000",
-        "editorOverviewRuler.bracketMatchForeground": "#0000",
         "editorBracketMatch.background": "#0000",
     },
     "workbench.colorTheme": "Atom One Light",
