@@ -9,6 +9,7 @@
         ".monaco-editor .scroll-decoration": "box-shadow: none;",
     },
     "customizeUI.titleBar": "inline",
+    "dart.flutterGutterIcons": false,
     "dart.showTestCodeLens": false,
     "diffEditor.ignoreTrimWhitespace": false,
     "diffEditor.renderSideBySide": false,
