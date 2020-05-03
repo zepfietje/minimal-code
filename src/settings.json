@@ -35,7 +35,6 @@
     "editor.renderWhitespace": "none",
     "editor.scrollbar.horizontalScrollbarSize": 8,
     "editor.scrollbar.verticalScrollbarSize": 8,
-    "editor.scrollBeyondLastLine": false,
     "editor.selectionHighlight": false,
     "editor.suggest.snippetsPreventQuickSuggestions": false,
     "explorer.compactFolders": false,
