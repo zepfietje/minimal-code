@@ -11,6 +11,7 @@
     },
     "customizeUI.titleBar": "inline",
     "dart.flutterGutterIcons": false,
+    "dart.showMainCodeLens": false,
     "dart.showTestCodeLens": false,
     "diffEditor.ignoreTrimWhitespace": false,
     "diffEditor.renderSideBySide": false,
