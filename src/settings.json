@@ -58,7 +58,6 @@
     "workbench.editor.enablePreview": false,
     "workbench.editor.enablePreviewFromQuickOpen": false,
     "workbench.editor.restoreViewState": false,
-    "workbench.editor.revealIfOpen": true,
     "workbench.editor.showTabs": false,
     "workbench.iconTheme": "material-icon-theme",
     "workbench.list.horizontalScrolling": true,
