@@ -39,6 +39,7 @@
     "explorer.compactFolders": false,
     "explorer.decorations.badges": false,
     "explorer.openEditors.visible": 0,
+    "git.showCommitInput": false,
     "markdown.preview.markEditorSelection": false,
     "material-icon-theme.activeIconPack": "none",
     "material-icon-theme.folders.theme": "classic",
