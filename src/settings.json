@@ -49,6 +49,7 @@
     "scm.diffDecorations": "gutter",
     "scm.diffDecorationsGutterVisibility": "hover",
     "window.autoDetectColorScheme": true,
+    "window.newWindowDimensions": "inherit",
     "window.title": "${rootName}",
     "window.titleBarStyle": "native",
     "workbench.activityBar.visible": false,
