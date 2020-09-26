@@ -25,16 +25,12 @@ It's focused on minimizing distractions, reducing mouse usage and optimizing the
    ```console
    $ code --install-extension akamud.vscode-theme-onedark
    ```
-5. Install [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) extension.
-   ```console
-   $ code --install-extension pkief.material-icon-theme
-   ```
-6. Install [JetBrains Mono](https://www.jetbrains.com/lp/mono/) font.
+5. Install [JetBrains Mono](https://www.jetbrains.com/lp/mono/) font.
    ```console
    $ brew tap homebrew/cask-fonts
    $ brew cask install font-jetbrains-mono
    ```
-7. Copy the contents of [`src/settings.json`](src/settings.json) to your settings file (search **Preferences: Open Settings (JSON)** using the Command Palette).
+6. Copy the contents of [`src/settings.json`](src/settings.json) to your settings file (search **Preferences: Open Settings (JSON)** using the Command Palette).
 
 ## Screenshots
 
