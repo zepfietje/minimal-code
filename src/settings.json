@@ -32,8 +32,6 @@
     "editor.matchBrackets": "near",
     "editor.minimap.enabled": false,
     "editor.occurrencesHighlight": false,
-    "editor.padding.bottom": 24,
-    "editor.padding.top": 24,
     "editor.renderIndentGuides": false,
     "editor.renderLineHighlight": "all",
     "editor.renderWhitespace": "none",
