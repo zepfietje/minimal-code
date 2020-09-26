@@ -72,5 +72,6 @@
     "workbench.startupEditor": "none",
     "workbench.statusBar.visible": false,
     "workbench.tips.enabled": false,
+    "workbench.tree.indent": 16,
     "workbench.tree.renderIndentGuides": "none",
 }
