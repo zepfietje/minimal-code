@@ -17,20 +17,16 @@ It's focused on minimizing distractions, reducing mouse usage and optimizing the
    ```console
    $ code --install-extension iocave.customize-ui
    ```
-3. Install [Atom One Light Theme](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onelight) extension.
+3. Install [GitHub Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme) extension.
    ```console
-   $ code --install-extension akamud.vscode-theme-onelight
+   $ code --install-extension github.github-vscode-theme
    ```
-4. Install [Atom One Dark Theme](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark) extension.
-   ```console
-   $ code --install-extension akamud.vscode-theme-onedark
-   ```
-5. Install [JetBrains Mono](https://www.jetbrains.com/lp/mono/) font.
+4. Install [JetBrains Mono](https://www.jetbrains.com/lp/mono/) font.
    ```console
    $ brew tap homebrew/cask-fonts
    $ brew cask install font-jetbrains-mono
    ```
-6. Copy the contents of [`src/settings.json`](src/settings.json) to your settings file (search **Preferences: Open Settings (JSON)** using the Command Palette).
+5. Copy the contents of [`src/settings.json`](src/settings.json) to your settings file (search **Preferences: Open Settings (JSON)** using the Command Palette).
 
 ## Screenshots
 
