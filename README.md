@@ -1,6 +1,6 @@
 <p align="center"><img src="screenshots/code-light.png" width="400"></p>
 
-[![Starware](https://img.shields.io/badge/Starware-⭐-black?labelColor=f9b00d)](https://github.com/zepfietje/starware)
+[![Starware](https://img.shields.io/badge/⭐-Starware-f5a91a?labelColor=black)](https://github.com/zepfietje/starware)
 
 # Minimal Code
 
