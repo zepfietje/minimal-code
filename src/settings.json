@@ -11,6 +11,7 @@
     },
     "customizeUI.titleBar": "inline",
     "dart.flutterGutterIcons": false,
+    "debug.toolBarLocation": "docked",
     "diffEditor.ignoreTrimWhitespace": false,
     "diffEditor.renderSideBySide": false,
     "editor.colorDecorators": false,
