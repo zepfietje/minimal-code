@@ -68,7 +68,6 @@
     "workbench.list.horizontalScrolling": true,
     "workbench.preferredDarkColorTheme": "GitHub Dark",
     "workbench.preferredLightColorTheme": "GitHub Light",
-    "workbench.sideBar.location": "right",
     "workbench.startupEditor": "none",
     "workbench.statusBar.visible": false,
     "workbench.tips.enabled": false,
