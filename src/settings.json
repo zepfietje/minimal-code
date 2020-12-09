@@ -55,9 +55,6 @@
     "window.title": "${rootName}",
     "window.titleBarStyle": "native",
     "workbench.activityBar.visible": false,
-    "workbench.colorCustomizations": {
-        "editorBracketMatch.background": "#0000",
-    },
     "workbench.colorTheme": "GitHub Light",
     "workbench.editor.enablePreview": false,
     "workbench.editor.enablePreviewFromQuickOpen": false,
