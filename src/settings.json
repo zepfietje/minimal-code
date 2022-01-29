@@ -35,7 +35,7 @@
     "editor.matchBrackets": "near",
     "editor.minimap.enabled": false,
     "editor.occurrencesHighlight": false,
-    "editor.renderLineHighlight": "all",
+    "editor.renderLineHighlight": "none",
     "editor.renderWhitespace": "none",
     "editor.scrollbar.horizontalScrollbarSize": 8,
     "editor.scrollbar.verticalScrollbarSize": 8,
