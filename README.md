@@ -14,20 +14,20 @@ It's focused on minimizing distractions, reducing mouse usage and optimizing the
 
 1. Install [Visual Studio Code](https://code.visualstudio.com/Download).
    ```console
-   $ brew cask install visual-studio-code
+   brew cask install visual-studio-code
    ```
 2. Install [Customize UI](https://marketplace.visualstudio.com/items?itemName=iocave.customize-ui) extension.
    ```console
-   $ code --install-extension iocave.customize-ui
+   code --install-extension iocave.customize-ui
    ```
 3. Install [GitHub Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme) extension.
    ```console
-   $ code --install-extension github.github-vscode-theme
+   code --install-extension github.github-vscode-theme
    ```
 4. Install [JetBrains Mono](https://www.jetbrains.com/lp/mono/) font.
    ```console
-   $ brew tap homebrew/cask-fonts
-   $ brew cask install font-jetbrains-mono
+   brew tap homebrew/cask-fonts
+   brew cask install font-jetbrains-mono
    ```
 5. Copy the contents of [`src/settings.json`](src/settings.json) to your settings file (search **Preferences: Open Settings (JSON)** using the Command Palette).
 
