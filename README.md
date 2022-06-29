@@ -1,8 +1,6 @@
 <p align="center">
-   <picture align="center">
-      <source media="(prefers-color-scheme: dark)" srcset="screenshots/empty-dark.png">
-      <img src="screenshots/empty-light.png" width="400">
-   </picture>
+  <img src="screenshots/empty-light.png#gh-light-mode-only" width="400">
+  <img src="screenshots/empty-dark.png#gh-dark-mode-only" width="400">
 </p>
 
 [![Starware](https://img.shields.io/badge/⭐-Starware-f5a91a?labelColor=black)](https://github.com/zepfietje/starware)
