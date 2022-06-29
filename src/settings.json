@@ -58,8 +58,6 @@
     "workbench.activityBar.visible": false,
     "workbench.colorTheme": "GitHub Light Default",
     "workbench.editor.enablePreview": false,
-    "workbench.editor.enablePreviewFromQuickOpen": false,
-    "workbench.editor.restoreViewState": false,
     "workbench.editor.showTabs": false,
     "workbench.editor.untitled.hint": "hidden",
     "workbench.iconTheme": null,
