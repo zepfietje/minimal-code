@@ -63,6 +63,7 @@
     "workbench.editor.enablePreviewFromQuickOpen": false,
     "workbench.editor.restoreViewState": false,
     "workbench.editor.showTabs": false,
+    "workbench.editor.untitled.hint": "hidden",
     "workbench.iconTheme": null,
     "workbench.list.horizontalScrolling": true,
     "workbench.preferredDarkColorTheme": "GitHub Dark Default",
