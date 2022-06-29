@@ -1,8 +1,10 @@
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="screenshots/code-light.png">
-  <source media="(prefers-color-scheme: dark)" srcset="screenshots/code-dark.png">
-  <img src="screenshots/code-light.png">
-</picture>
+<p align="center">
+   <picture align="center">
+      <source media="(prefers-color-scheme: light)" srcset="screenshots/code-light.png">
+      <source media="(prefers-color-scheme: dark)" srcset="screenshots/code-dark.png">
+      <img src="screenshots/code-light.png" width="400">
+   </picture>
+</p>
 
 [![Starware](https://img.shields.io/badge/⭐-Starware-f5a91a?labelColor=black)](https://github.com/zepfietje/starware)
 
