@@ -30,6 +30,7 @@
     "editor.gotoLocation.multipleReferences": "goto",
     "editor.gotoLocation.multipleTypeDefinitions": "goto",
     "editor.guides.indentation": false,
+    "editor.hideCursorInOverviewRuler": true,
     "editor.lineHeight": 36,
     "editor.lineNumbers": "off",
     "editor.matchBrackets": "near",
