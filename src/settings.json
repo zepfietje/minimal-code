@@ -44,6 +44,8 @@
     "explorer.compactFolders": false,
     "explorer.decorations.badges": false,
     "explorer.openEditors.visible": 0,
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
     "markdown.preview.markEditorSelection": false,
     "problems.decorations.enabled": false,
     "scm.diffDecorations": "none",
