@@ -18,7 +18,6 @@
     "diffEditor.renderSideBySide": false,
     "editor.colorDecorators": false,
     "editor.cursorStyle": "line-thin",
-    "editor.find.addExtraSpaceOnTop": false,
     "editor.fontFamily": "JetBrains Mono",
     "editor.fontLigatures": true,
     "editor.fontSize": 15,
