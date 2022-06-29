@@ -10,7 +10,6 @@
         ".monaco-editor .scroll-decoration": "box-shadow: none;",
     },
     "customizeUI.titleBar": "inline",
-    "dart.flutterGutterIcons": false,
     "debug.console.fontFamily": "JetBrains Mono",
     "debug.console.fontSize": 15,
     "debug.console.lineHeight": 36,
