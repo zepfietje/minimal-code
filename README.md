@@ -4,7 +4,7 @@
 
 # Minimal Code
 
-Minimal Code is a set of extensions, settings and keyboard shortcuts that turns Visual Studio Code into a minimal and productive development/writing environment.  
+Minimal Code is a set of extensions, settings and keyboard shortcuts that turns Visual Studio Code into a minimal and productive development environment.  
 It's focused on minimizing distractions, reducing mouse usage and optimizing the overall workflow.
 
 ## Installation
