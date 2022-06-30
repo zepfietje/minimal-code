@@ -50,6 +50,7 @@
     "problems.decorations.enabled": false,
     "scm.diffDecorations": "none",
     "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.enableMultiLinePasteWarning": false,
     "terminal.integrated.fontSize": 15,
     "terminal.integrated.lineHeight": 1.85,
     "window.autoDetectColorScheme": true,
