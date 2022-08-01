@@ -3,8 +3,6 @@
   <img src="screenshots/empty-dark.png#gh-dark-mode-only" width="400">
 </p>
 
-[![Starware](https://img.shields.io/badge/⭐-Starware-f5a91a?labelColor=black)](https://github.com/zepfietje/starware)
-
 # Minimal Code
 
 Minimal Code is a set of extensions, settings and keyboard shortcuts that turns Visual Studio Code into a minimal and productive development environment.  
@@ -37,9 +35,3 @@ It's focused on minimizing distractions, reducing mouse usage and optimizing the
 ![code dark](screenshots/code-dark.png)
 ![empty light](screenshots/empty-light.png)
 ![empty dark](screenshots/empty-dark.png)
-
-## Starware
-
-Minimal Code is Starware.  
-This means you're free to use the project, as long as you star its GitHub repository.  
-Your appreciation makes us grow and glow up. ⭐
