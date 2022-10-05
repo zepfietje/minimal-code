@@ -7,7 +7,7 @@
         ".editor-group-container .title *": "display: none;",
         ".editor-group-container .title": "pointer-events: none;",
         ".editor-group-container.empty": "-webkit-app-region: drag;",
-        ".monaco-editor .scroll-decoration": "box-shadow: none;",
+        ".monaco-editor .scroll-decoration": "box-shadow: none;"
     },
     "customizeUI.titleBar": "inline",
     "debug.console.fontFamily": "JetBrains Mono",
@@ -70,5 +70,5 @@
     "workbench.statusBar.visible": false,
     "workbench.tips.enabled": false,
     "workbench.tree.indent": 16,
-    "workbench.tree.renderIndentGuides": "none",
+    "workbench.tree.renderIndentGuides": "none"
 }
