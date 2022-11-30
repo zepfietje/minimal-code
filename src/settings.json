@@ -17,7 +17,6 @@
     "diffEditor.ignoreTrimWhitespace": false,
     "diffEditor.renderSideBySide": false,
     "editor.bracketPairColorization.enabled": false,
-    "editor.codeLens": false,
     "editor.colorDecorators": false,
     "editor.cursorStyle": "line-thin",
     "editor.fontFamily": "JetBrains Mono",
