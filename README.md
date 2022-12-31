@@ -12,7 +12,7 @@ It's focused on minimizing distractions, reducing mouse usage and optimizing the
 
 1. Install [Visual Studio Code](https://code.visualstudio.com/Download):
    ```bash
-   brew cask install visual-studio-code
+   brew install visual-studio-code
    ```
 2. Install [Customize UI](https://marketplace.visualstudio.com/items?itemName=iocave.customize-ui) extension:
    ```bash
@@ -25,7 +25,7 @@ It's focused on minimizing distractions, reducing mouse usage and optimizing the
 4. Install [JetBrains Mono](https://www.jetbrains.com/lp/mono/) font:
    ```bash
    brew tap homebrew/cask-fonts
-   brew cask install font-jetbrains-mono
+   brew install font-jetbrains-mono
    ```
 5. Copy the contents of [`src/settings.json`](src/settings.json) to your settings file (search **Preferences: Open Settings (JSON)** using the Command Palette).
 
