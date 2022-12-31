@@ -12,7 +12,7 @@ It's focused on minimizing distractions, reducing mouse usage and optimizing the
 
 1. Install [Visual Studio Code](https://code.visualstudio.com/Download):
    ```bash
-   brew cask install visual-studio-code
+   brew install visual-studio-code --cask
    ```
 2. Install [Customize UI](https://marketplace.visualstudio.com/items?itemName=iocave.customize-ui) extension:
    ```bash
