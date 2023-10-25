@@ -14,9 +14,9 @@ It's focused on minimizing distractions, reducing mouse usage and optimizing the
    ```bash
    brew install visual-studio-code
    ```
-2. Install [Customize UI](https://marketplace.visualstudio.com/items?itemName=iocave.customize-ui) extension:
+2. Install [Apc Customize UI++](https://marketplace.visualstudio.com/items?itemName=drcika.apc-extension) extension:
    ```bash
-   code --install-extension iocave.customize-ui
+   code --install-extension drcika.apc-extension
    ```
 3. Install [GitHub Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme) extension:
    ```bash
