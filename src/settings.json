@@ -2,14 +2,20 @@
     /**
      * Minimal Code
      */
-    "customizeUI.stylesheet": {
+    "apc.electron": {
+        "titleBarStyle": "hidden",
+        "trafficLightPosition": {
+            "x": 9,
+            "y": 9
+        }
+    },
+    "apc.stylesheet": {
         ".decorationsOverviewRuler": "display: none;",
         ".editor-group-container .title *": "display: none;",
         ".editor-group-container .title": "pointer-events: none;",
         ".editor-group-container.empty": "-webkit-app-region: drag;",
         ".monaco-editor .scroll-decoration": "box-shadow: none;"
     },
-    "customizeUI.titleBar": "inline",
     "debug.console.fontFamily": "JetBrains Mono",
     "debug.console.fontSize": 15,
     "debug.console.lineHeight": 36,
